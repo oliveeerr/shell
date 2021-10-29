@@ -1,0 +1,47 @@
+num1=50
+num2=21
+num3=14
+
+let res=$num1+$num2+$num3
+echo "La suma de les tres variables és $res"
+echo ""
+let res=$num1-$num2-$num3
+echo "La resta de les tres variables és $res"
+echo ""
+let res=$num1*$num*$num3
+echo "La multiplicació de les tres variables és:$res"
+
+#!/bin/sh
+echo What is your name?
+read MY_NAME
+echo "Hello $MY_NAME - hope you're well."
+#!/bin/sh
+echo "MYVAR is: $MYVAR"
+MYVAR="hi there"
+echo "MYVAR is: $MYVAR"
+echo "I will create you a file called $USER_NAME_file"
+
+echo "I will create you a file called ${MY_NAME}_file"
+touch ${MY_NAME}_file
+
+#!/bin/sh
+echo What are your names?
+echo "Sergi Oliver"
+echo "markel servera"
+echo "sergi obrador"
+
+
+scale=2
+/* este programa resuelve ecuaciones de segundo grado */
+print "\n Ax2+Bc+C=0 \n"
+print "A: " ; fa = read()
+print "B: " ; fb = read()
+print "C: " ; fc = read()
+print "\n" 
+print "X1: "
+(-1*fb + sqrt(fb*fb-4*fa*fc ))/(2*fa)
+print "X2: "
+(-1*fb + sqrt(fb*fb-4*fa*fc ))/(2*fa)
+quit 
+
+
