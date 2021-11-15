@@ -1,5 +1,3 @@
-echo $*
-
 paraules=$*
 conta=0
 
