@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Endevina el nombre secret.
+
 nSecret=$(($RANDOM%11))
 echo "Digues el teu nom"
 read nom
