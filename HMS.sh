@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Hora, minuts i segons amb un nombre.
+
 #/ich/bash
 echo "Digues un nombre per treure hores, minuts i segons"
 read nomTemps
