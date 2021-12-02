@@ -1,3 +1,6 @@
+#Sergi Oliver Morey. Junta tos els programes anteriors dins un. Investiga el recorrgut que fa cada variable que vas creant. Pensa que hi ha variables que les modificam durant l’execució.
+
+
 #!/bin/bash
 
 echo "Escriu un nombre"
