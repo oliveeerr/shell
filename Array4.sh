@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. conta els nombre d arguments.
+
 #!/bin/bash
 
 Paraules=(hola bon dia)
