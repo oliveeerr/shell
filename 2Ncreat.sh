@@ -1,3 +1,5 @@
+#Sergi Oliver Morey.Fer un programa que demani dos nombres i per sortida digui quin és el més gran.
+
 #!/bin/bash
 
 ncreat1=$(($RANDOM%101))
