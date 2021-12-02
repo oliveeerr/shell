@@ -1,3 +1,5 @@
+#Sergi Oliver.Fes l’exercici anterior, passant per arguments els valors de l’array i en darrera posició l’entrada a cercar.
+
 read paraules
 conta=0
 for var in ${paraules[@]}
