@@ -1,8 +1,8 @@
-echo cuanto asteriscos por lado quieres?
+echo Quin nombre vols?
 read m
 for ((j=0;j<m;j++)) do
     for((i=1;i<m;i++)) do
-        echo -n "*"
+        echo -n "$m"
     done
-    echo "*"
+    echo "$m"
 done
