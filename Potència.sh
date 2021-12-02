@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Potència.
+
 #!/bin/bash
 set -e
 
