@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Nombre creat més alt.
+
 #!/bin/bash
 
 echo "Escriu un nombre de 0 a 100"
