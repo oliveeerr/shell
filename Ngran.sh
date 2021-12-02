@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Nombre més gran.
+
 #!/bin/bash
 
 echo "Escriu un nombre"
