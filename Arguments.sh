@@ -1,3 +1,5 @@
+#Sergi Oliver Morey. Fes un programa que faci la suma de dos nombres passats per argument.
+
 #$ ./Arguments.sh 
 
 let res=$1+$2
