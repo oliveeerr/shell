@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Quin és més gran??
+
 #!/bin/bash
 
 echo "Escriu un nombre"
