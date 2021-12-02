@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Tres nombres creats.
+
 #!/bin/bash
 
 echo "ES crearan 4 nombres al atzar"
