@@ -1,3 +1,6 @@
+#Sergi Oliver Morey.Contar el nombre d’entrades ‘h’ que hi ha dins d’un array
+
+
 echo "escriu lletres separades que contengui alguna h"
 read paraules
 conta=0
