@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Suma un segon.
+
 #/ich/bash
 
 echo "Digues un hora"
