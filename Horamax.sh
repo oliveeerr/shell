@@ -1,3 +1,6 @@
+
+#Sergi Oliver Morey. Hora màxima.
+
 echo "BENVINGUTA S A HORA MÀXIMA"
 echo "les dades entrades són: $1, $2, $3 i $4"
 
