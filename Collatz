@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "Digues un nombre"
+read n
+let RESTO=$n%2
+
+if [ $RESTO -eq 0 ]; then
+
+echo "El numero $n es par"
+let res1=$n/2
+echo "El nombre es $res1"
+
+else
+let res=$n*3+1
+echo "El numero $n es impar"
+echo "El nombre es $res"
+fi
